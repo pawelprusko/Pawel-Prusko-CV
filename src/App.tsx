@@ -588,7 +588,7 @@ export default function App() {
                 {/* Additional Experience */}
                 <div className="pt-1">
                   <h3 className="text-[13.5px] sm:text-[14px] font-bold text-[#111827] mb-2">
-                    Additional Experience
+                    Pozostałe Doświadczenie
                   </h3>
                   <div className="space-y-1 text-[12.5px] sm:text-[13px] leading-[1.6] text-[#374151]">
                     <div className="flex items-start gap-2">
@@ -616,10 +616,10 @@ export default function App() {
               </div>
             </section>
 
-            {/* Section 3: Selected AI & Interaction Projects */}
+            {/* Section 3: Wybrane Projekty */}
             <section className="mb-7">
               <h2 className="text-[14.5px] sm:text-[15px] font-bold text-[#111827] mb-3">
-                Selected AI &amp; Interaction Projects
+                Wybrane Projekty
               </h2>
               <div className="space-y-2.5 text-[12.5px] sm:text-[13px] leading-[1.6] text-[#374151]">
                 <div className="flex items-start gap-2">
@@ -648,10 +648,10 @@ export default function App() {
               </div>
             </section>
 
-            {/* Section 4: Education */}
+            {/* Section 4: Edukacja */}
             <section className="mb-7">
               <h2 className="text-[14.5px] sm:text-[15px] font-bold text-[#111827] mb-3">
-                Education
+                Edukacja
               </h2>
               <div className="space-y-1 text-[12.5px] sm:text-[13px] leading-[1.6] text-[#374151]">
                 <div className="flex items-start gap-2">
